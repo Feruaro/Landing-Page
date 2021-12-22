@@ -68,6 +68,10 @@ body {
     font-size: 24px;
 }
 
+.conteudo-principal-escrito-botao:hover {
+    background-color: rgba(263, 214, 196, 0.53);
+}
+
 .conteudo-principal-escrito-botao {
     background-color: #ECD6C4;
     height: 60px;
@@ -101,6 +105,7 @@ body {
     color: #FFF2E7;
     font-weight: 400;
     font-size: 24px;
+    margin-bottom: 16px;
 }
 
 .conteudo-secundario-opcao {
@@ -110,3 +115,13 @@ body {
     font-size: 18px;
 }
 
+.rodape {
+    border-top: 0.4px solid #FFF2E7;
+    padding: 32px;
+}
+
+.rodape-img {
+    height: 48px;
+    display: block;
+    margin: 0 auto;
+}
