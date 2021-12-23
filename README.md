@@ -13,9 +13,9 @@
 
 ----
 
-<img align="right" height="180em" src="https://github.com/Feruaro/Landing-Page/blob/main/img/pagefinalizada.jpg"/>
+<img src="https://github.com/Feruaro/Landing-Page/blob/main/img/pagefinalizada.jpg"/>
 
-<img align="right" height="180em" src="https://github.com/Feruaro/Landing-Page/blob/main/img/codigo.jpg"/>
+<img src="https://github.com/Feruaro/Landing-Page/blob/main/img/codigo.jpg"/>
 
 ### 📚 Referência:
 
