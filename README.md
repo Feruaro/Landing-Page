@@ -17,7 +17,7 @@
 
 <img src="https://github.com/Feruaro/Landing-Page/blob/main/img/codigo.jpg"/>
 
-### 📚 Referência:
+### 📚 Referências:
 
 ----
 
